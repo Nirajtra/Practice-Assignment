@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Sale Advertisement </title>
+        <style>
+            #head1{
+                color:white;
+                font-size: 75px;
+                float: left;
+                padding: 15px;
+            }
+
+            #subt1{
+                float:right;
+                color:rgb(11, 11, 68);
+                font-size: 35px;
+                margin: 100px 10px 0px 0px;
+            }
+
+            #head2{
+                margin: 15px 25px 0px;
+                font-size: 55px;
+            }
+
+            ul{
+                font-size: 25px;
+                margin-right: 10px;    
+            }
+
+        </style>
+    </head>
+    <body>
+        <table style="border:3px solid rgb(11, 11, 68); padding:auto;padding:0; border-collapse:collapse; margin:auto;">
+            <tr style="background-color: #9FCD71;height: 200px;">
+                <td>
+
+                    
+                <div>
+                    <span id="head1">FOR </br>SALE</span>
+                    <span id="subt1">Smith-Jones<br> Real Estate</span>
+                </div>
+            </td>
+                
+            </tr>
+            <tr style="background-color: white;color:rgb(11, 11, 68);">
+                <td colspan="2">
+                    <h1 id="head2">Let's do deal</h1>
+                    <ul>
+                        <li>Up to 5,500m<sup>2</sup></li>
+                        <li>Flexible fitted out space</li>
+                        <li>Basement car parking</li>
+                        <li>2.5 star NABERS Energy rating</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr style="background-color: #9FCD71;color:white;">
+                <td colspan="2"> 
+                <p>
+                    <span style="font-size: 38px; margin: 15px;">PHONE 00 1234 5678<br></span>
+                    <span style="font-size: 35px; margin: 15px; font-weight: 1000;">www.example1.com.au<br></span> 
+                    <span style="font-size: 20px; margin: 15px;">Ground floor, 1-2 Example St, Example city</span> 
+                </p>
+            </td>
+
+
+                            </tr>
+        </table>
+
+        
+    </body>
+</html>
